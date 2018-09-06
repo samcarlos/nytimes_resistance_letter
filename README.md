@@ -28,7 +28,7 @@ Below ranking of each cabinent member. Azar, Acosta, or Haley are most likely to
 ['azar', 16]
 
 
-I scraped each person's opening testimony as a dataset. I think split each person testimony into sentences. I built a model to predict who wrote a sentence given it's features (bigrams of words and characters). 
+I scraped each person's opening testimony as a dataset. I then split each person testimony into sentences. I built a model to predict who wrote a sentence given it's features (bigrams of words and characters). 
 Applying model to each sentence of resistance article gave a probability that a cabinent member wrote that sentence. 
 I set a threshold of .1 for each sentence probability; if a person recieved a probability greater than .1 then they were giving a 1 else 0 for that particular sentence. The above ranking is the sum of those scores. 
 
