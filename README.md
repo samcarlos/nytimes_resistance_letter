@@ -1,7 +1,7 @@
 # nytimes_resistance_letter
 Which senior cabinet wrote nytimes 'resistance' article? 
 
-Below ranking of each cabinent member. Azar, Acosta, or Haley are most likely to have written article based on data analysis. 
+Below ranking of each cabinent member. Sessions, Wilki, Carson, or Azar are most likely to have written article based on data analysis. 
 
 
 ['sonny perdue', 0.042799391346238246]
